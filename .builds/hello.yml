@@ -1,4 +1,5 @@
 image: alpine/edge
 tasks:
 - example: |
-    echo "hello world"
+    echo "hello"
+    echo "world"
